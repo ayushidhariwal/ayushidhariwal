@@ -1,14 +1,15 @@
-### 👋 Hi there, I'm Ayushi
+## 👋 Hi there, I'm Ayushi Dhariwal
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushidhariwal&label=Profile%20views&color=0e75b6&style=flat" alt="ayushidhariwal" /> </p>
 
 I'm a curious and detail-oriented individual passionate about turning raw data into actionable insights. I enjoy working with data to uncover trends, build dashboards, and solve real-world problems through data exploration and analysis. Currently, I'm focused on improving my skills in **SQL**, **Python**, **Excel**, and **data visualization** using tools like **Power BI**.
-
 
 ---
 
 #### 🧰 Skills & Tools
 - **Languages**: Python (Pandas, NumPy), SQL
 - **Visualization**: Power BI, Excel, Matplotlib, Seaborn
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL
 - **Tools**: Jupyter Notebook, Git, VS Code, Google Sheets
 
 ---
@@ -27,3 +28,6 @@ I'm a curious and detail-oriented individual passionate about turning raw data i
 
 > 💡 *"Data is the new oil. But like oil, data is only useful when it is refined."*
 
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushidhariwal&show_icons=true&locale=en&layout=compact" alt="ayushidhariwal" /></p>
