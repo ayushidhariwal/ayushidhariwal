@@ -6,10 +6,10 @@ I'm a curious and detail-oriented individual passionate about turning raw data i
 
 ---
 
-#### 🚀 Top Data Projects
+#### 🚀 Top Projects
 
-[![Restaurant Ratings Analytics](https://github-readme-stats.vercel.app/api/pin/?username=ayushidhariwal&repo=restaurant-ratings-analytics&border_color=EAEAEA&bg_color=FFFFFF&title_color=0366D6&text_color=24292E&icon_color=0366D6)](https://github.com/ayushidhariwal/restaurant-ratings-analytics)
-[![Telco Customer Churn Prediction](https://github-readme-stats.vercel.app/api/pin/?username=ayushidhariwal&repo=telco-customer-churn-prediction&border_color=EAEAEA&bg_color=FFFFFF&title_color=0366D6&text_color=24292E&icon_color=0366D6)](https://github.com/ayushidhariwal/telco-customer-churn-prediction)
+[![Restaurant Ratings Analytics](https://github-readme-stats.vercel.app/api/pin/?username=ayushidhariwal&repo=restaurant-ratings-analytics&border_color=000000&bg_color=FFFFFF&title_color=E36209&text_color=111111&icon_color=F66A0A)](https://github.com/ayushidhariwal/restaurant-ratings-analytics)
+[![Telco Customer Churn Prediction](https://github-readme-stats.vercel.app/api/pin/?username=ayushidhariwal&repo=telco-customer-churn-prediction&border_color=000000&bg_color=FFFFFF&title_color=E36209&text_color=111111&icon_color=F66A0A)](https://github.com/ayushidhariwal/telco-customer-churn-prediction)
 
 ---
 
