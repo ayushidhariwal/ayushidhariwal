@@ -31,6 +31,7 @@ I'm a curious and detail-oriented individual passionate about turning raw data i
 #### 🤝 Let's Connect
 - 📫 Email: ayushichoudhary141@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayushi-2811/)  
+- 🌐 [Portfolio](https://www.datascienceportfol.io/ayushidhariwal) 
 
 ---
 
